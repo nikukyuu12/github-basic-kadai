@@ -1,0 +1,33 @@
+body {
+  font-family: "Arial", "Meirio", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.blue {
+  color: skyblue;
+}
+
+.pink {
+  color: pink;
+}
+
+.Mblue {
+  color: skyblue;
+}
+.Ppink {
+  color: rgb(255,192,203);
+}
+
+
+.google-fonts {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 3px 3px 2px gray;
+  border-bottom: solid rgb(115,115,114);
+}
+
+#basic P {
+  font-weight: bold;
+}
